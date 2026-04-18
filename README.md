@@ -26,8 +26,9 @@
 ---
 
 ### 📈 GitHub Stats
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Losdreyfedus&show_icons=true&theme=radium)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losdreyfedus&layout=compact&theme=radium)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Losdreyfedus&show_icons=true&theme=radium)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losdreyfedus&layout=compact&theme=radium)
 ---
 
 ### 📫 Connect with Me
