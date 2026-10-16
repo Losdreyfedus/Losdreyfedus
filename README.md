@@ -45,7 +45,7 @@ Computer Engineering graduate with backend internships at **Turkcell (Paycell)**
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Losdreyfedus&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Losdreyfedus&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losdreyfedus&layout=compact&theme=tokyonight)
 
