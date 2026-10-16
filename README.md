@@ -37,7 +37,7 @@ Computer Engineering graduate with backend internships at **Turkcell (Paycell)**
 | [Multimodal Hierarchical RAG](https://github.com/losdreyfedus/multimodal-hiyerarsik-rag) | RAG assistant for ASELSAN technical documents, 99.23% Recall@5 | Python, BGE-M3, CLIP, Qdrant, FastAPI |
 | [hk-commerce](https://github.com/losdreyfedus/hk-commerce) | E-commerce microservices with CI/CD | Spring Boot, RabbitMQ, Resilience4j, Redis, React |
 | [GoFintechAPI](https://github.com/losdreyfedus/GoFintechAPI) | Fintech backend with observability | Go, Redis, Prometheus, Jaeger |
-| [Fateful Moment](https://github.com/hamzakar04/fateful-moment) | Interactive decision-simulation mobile app | React Native, Expo, TypeScript |
+| [Fateful Moment](https://github.com/losdreyfedus/fateful-moment) | Interactive decision-simulation mobile app | React Native, Expo, TypeScript |
 
 ---
 
