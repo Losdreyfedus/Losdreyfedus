@@ -19,6 +19,15 @@ Computer Engineering graduate with backend internships at **Turkcell (Paycell)**
 
 ---
 
+### 🛠️ Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,go,python,kafka,rabbitmq,redis,postgres,docker,kubernetes,jenkins,githubactions,prometheus,grafana,react,ts&perline=8)](https://skillicons.dev)
+
+* **Architecture:** Microservices, Event-Driven, Saga, Transactional Outbox, Circuit Breaker, SOLID, Clean Code
+* **Observability:** ELK Stack, OpenTelemetry, Jaeger
+* **AI / LLM:** RAG, hybrid search & re-ranking, LangGraph, Gemini, Ollama, Qdrant
+* **Mobile:** React Native, Expo
+
 ### 🚀 Featured Projects
 
 | Project | What it is | Stack |
@@ -32,22 +41,15 @@ Computer Engineering graduate with backend internships at **Turkcell (Paycell)**
 
 ---
 
-### 🛠️ Tech Stack
 
-* **Backend:** Java (Spring Boot), Go, Python, REST APIs, JWT, OpenFeign
-* **Messaging & Data:** Apache Kafka, RabbitMQ, PostgreSQL, SQL, Redis
-* **DevOps & Observability:** Docker, Kubernetes, Jenkins, GitHub Actions, ELK Stack, Prometheus, Grafana, OpenTelemetry, Jaeger
-* **Architecture:** Microservices, Event-Driven, Saga, Transactional Outbox, Circuit Breaker, SOLID, Clean Code
-* **AI / LLM:** RAG, hybrid search & re-ranking, LangGraph, Gemini, Ollama, Qdrant
-* **Frontend & Mobile:** React, React Native, Expo, TypeScript
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Losdreyfedus&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Losdreyfedus&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losdreyfedus&layout=compact&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Losdreyfedus&theme=tokyonight)
 
 ---
 
